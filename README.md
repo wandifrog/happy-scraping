@@ -1,2 +1,1 @@
-# happy-scrapping
-Scrapping information data from website.
+# scraping information from website.
